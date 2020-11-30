@@ -1,15 +1,15 @@
 # Calculadora
 
-Calculadora
-  Hecha a partir de código basado en HTML, CSS y JavaScript.
+##Calculadora
+  _Hecha a partir de código basado en HTML, CSS y JavaScript._
 
-Comenzando 🚀
-
-
+##Comenzando 🚀
 
 
-Pre-requisitos 📋
-  Realizado a partir de  un editor de código fuente como Visual Studio Code.
+
+
+##Pre-requisitos 📋
+  _Realizado a partir de  un editor de código fuente como Visual Studio Code._
   
 
 
