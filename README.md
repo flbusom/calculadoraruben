@@ -1,4 +1,4 @@
-# Calculadora
+# Calculadora Domotic Quality
 
 ## Calculadora
   _Hecha a partir de código basado en HTML, CSS y JavaScript._
